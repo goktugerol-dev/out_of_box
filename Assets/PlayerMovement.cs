@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody rb;
     public float forwardForce = 2000f;
-    public int jumpingForce = 500; // needs some work
+    public int jumpingForce = 30; // needs some work
 
     // Start is called before the first frame update
     //void Start()
